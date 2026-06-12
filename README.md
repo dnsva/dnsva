@@ -1,6 +1,5 @@
 ### Hi there 👋
-
-<img align="center" src="k02.gif" height="160px" width="auto">
+<img src="k02.gif" align="right" width="160">
 
 <p align="center">
 <a href="https://github.com/dnsva">
