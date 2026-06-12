@@ -1,9 +1,6 @@
 ### Hi there 👋
 
-<!--
-<img align="right" src="https://media.giphy.com/media/d31vTpVi1LAcDvdm/giphy.gif" height="160px" width="auto">
-### 🎀 &nbsp;Stats
--->
+<img align="center" src="k02.gif" height="160px" width="auto">
 
 <p align="center">
 <a href="https://github.com/dnsva">
